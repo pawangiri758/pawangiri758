@@ -24,19 +24,40 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: "Pawan Giri"
-role: "Software Developer / Full Stack Engineer"
-experience: "4+ Years"
-focus:
-  - "Designing clean, scalable architecture"
-  - "Building high-performance full stack applications"
-  - "Working across frontend, backend & cloud infrastructure"
-currently:
-  - "Sharpening cloud-native & DevOps skills"
-  - "Contributing to open source"
-fun_fact: "I believe clean code is a love letter to your future self."
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+🔥 Passionate **Software Developer** with **4+ years of experience** designing and building modern, scalable, high-performance applications.
+
+💡 I specialize in turning ideas into real-world digital products — clean architecture, efficient code, and a strong eye for detail.
+
+🌍 Comfortable across the **full stack** — frontend, backend, databases, and cloud — and always looking to sharpen my craft.
+
+🚀 Currently exploring deeper **cloud-native & DevOps** practices and contributing to open source.
+
+</td>
+<td width="40%" valign="top">
+
 ```
+🎯 Currently Focused On
+─────────────────────────
+▸ Cloud-Native Architecture
+▸ DevOps & CI/CD Pipelines
+▸ Open Source Contributions
+▸ System Design Patterns
+
+⚡ Fun Fact
+─────────────────────────
+I once debugged a production
+issue at 2 AM, fixed it in one
+line — and still remember the
+exact coffee that powered it.
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -129,4 +150,28 @@ fun_fact: "I believe clean code is a love letter to your future self."
 <a href="https://www.linkedin.com/in/pawan-pgiri" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Pawan%20Giri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:pawangiri057@gmail.com"
+<a href="mailto:pawangiri057@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/pawangiri758" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://pawangirii.com/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 💡 Developer Philosophy
+
+> *"Clean code always wins. Build simple, scale smart."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=120&section=footer" width="100%"/>
+
+</div>
