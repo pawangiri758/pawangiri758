@@ -28,13 +28,11 @@
 <tr>
 <td width="60%" valign="top">
 
-🔥 Passionate **Software Developer** with **4+ years of experience** designing and building modern, scalable, high-performance applications.
+🧑‍💻 Software Developer with 4+ years of experience building full-stack applications — frontend, backend, databases, and the cloud infra that ties it all together.
 
-💡 I specialize in turning ideas into real-world digital products — clean architecture, efficient code, and a strong eye for detail.
+I like picking up new tools and technologies and actually using them on real projects, not just reading about them. The stack changes fast and I try to keep up with it.
 
-🌍 Comfortable across the **full stack** — frontend, backend, databases, and cloud — and always looking to sharpen my craft.
-
-🚀 Currently exploring deeper **cloud-native & DevOps** practices and contributing to open source.
+Outside of code, I'm usually outdoors — hiking when I get the chance, and following sports the rest of the time.
 
 </td>
 <td width="40%" valign="top">
@@ -49,10 +47,9 @@
 
 ⚡ Fun Fact
 ─────────────────────────
-I once debugged a production
-issue at 2 AM, fixed it in one
-line — and still remember the
-exact coffee that powered it.
+Outside of coding, you'll
+find me on a hiking trail
+or watching a sports game.
 ```
 
 </td>
